@@ -1,0 +1,7 @@
+name: EnchanticMK
+version: '${project.version}'
+main: justmasashii.project.enchanticmk.EnchanticMK
+api-version: '1.19'
+authors: [JustMasashii]
+commands:
+  enchantmine:
